@@ -9,11 +9,11 @@ https://rtmbesmobile.secureswiftcontent.com/Origin03/ngrp:RTM3/chunklist_b206400
 https://rtm2mobile.secureswiftcontent.com/Origin02/ngrp:RTM2/chunklist_b2064000.m3u8
 #EXTINF:-1 tvg-ID="Oky.MY" tvg-logo="https://okey.rtm.gov.my/img/logo/okey.png" group-title="Malaysia",OKEY( Malaysia)
 https://rtmokeymobile.secureswiftcontent.com/Origin02/ngrp:RTM2/chunklist_b2064000.m3u8
-#EXTINF:-1 tvg-ID="TV3.MY" tvg-logo="https://www.xtra.com.my/wp-content/themes/xtra_revamp/assets/img/tv3.png" group-title = "New Malaysia", TV3 (Malaysia)
+#EXTINF:-1 tvg-ID="TV3.MY" tvg-logo="https://www.xtra.com.my/wp-content/themes/xtra_revamp/assets/img/tv3.png" group-title = "Malaysia", TV3 (Malaysia)
 https://fvtv.mywire.org/playlist/c6pxxm7rgq-maywremf1e.m3u8|Referer=https://www.dailymotion.com
-#EXTINF:-1 tvg-ID="TV7.MY" tvg-logo="https://www.xtra.com.my/wp-content/themes/xtra_revamp/assets/img/ntv7.png" group-title = "New Malaysia", NTV 7 (Malaysia)
+#EXTINF:-1 tvg-ID="TV7.MY" tvg-logo="https://www.xtra.com.my/wp-content/themes/xtra_revamp/assets/img/ntv7.png" group-title = "Malaysia", NTV 7 (Malaysia)
 https://fvtv.mywire.org/playlist/v6wy5rq4af-qs2njy69km.m3u8
-#EXTINF:-1 tvg-ID="8TV.MY" tvg-logo="https://www.xtra.com.my/wp-content/themes/xtra_revamp/assets/img/tv8.png" group-title = "New Malaysia", Octave Space (Malaysia)
+#EXTINF:-1 tvg-ID="8TV.MY" tvg-logo="https://www.xtra.com.my/wp-content/themes/xtra_revamp/assets/img/tv8.png" group-title = "Malaysia", Octave Space (Malaysia)
 https://fvtv.mywire.org/playlist/8dscyy8nb0-hatkqxr4hm.m3u8
-#EXTINF:-1 tvg-ID="TV9.MY" tvg-logo="https://www.xtra.com.my/wp-content/themes/xtra_revamp/assets/img/tv9.png" group-title = "New Malaysia", TV9 (Malaysia)
+#EXTINF:-1 tvg-ID="TV9.MY" tvg-logo="https://www.xtra.com.my/wp-content/themes/xtra_revamp/assets/img/tv9.png" group-title = "Malaysia", TV9 (Malaysia)
 https://fvtv.mywire.org/playlist/cyxua17hra-kspk2qfm7h.m3u8
