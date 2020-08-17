@@ -1,13 +1,13 @@
 #EXTM3U
-#EXTINF:-1 tvg-ID="TV1.MY" tvg-logo="https://tv1.rtm.gov.my/assets/img/logo3.png" group-title="New Horse",TV1( Malaysia)
+#EXTINF:-1 tvg-ID="TV1.MY" tvg-logo="https://tv1.rtm.gov.my/assets/img/logo3.png" group-title="",TV1( Malaysia)
 https://rtm1mobile.secureswiftcontent.com/Origin01/ngrp:RTM1/chunklist_b2064000.m3u8
-#EXTINF:-1 tvg-ID="TV2.MY" tvg-logo="https://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Pos/102_300.png" group-title="New Horse", TV2 (Malaysia)
+#EXTINF:-1 tvg-ID="TV2.MY" tvg-logo="https://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Pos/102_300.png" group-title="Malaysia", TV2 (Malaysia)
 https://rtm2mobile.secureswiftcontent.com/Origin01/ngrp:RTM1/chunklist_b2064000.m3u8
-#EXTINF:-1 tvg-ID="BRE.MY" tvg-logo="https://berita.rtm.gov.my/images/logobes.jpg" group-title="新马",Berita RTM(Malaysia )
+#EXTINF:-1 tvg-ID="BRE.MY" tvg-logo="https://berita.rtm.gov.my/images/logobes.jpg" group-title="Malaysia,Berita RTM(Malaysia )
 https://rtmbesmobile.secureswiftcontent.com/Origin03/ngrp:RTM3/chunklist_b2064000.m3u8
-#EXTINF:-1 tvg-ID="RTS.MY" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/02/RTM_HD_Sports.png" group-title="New Horse", RTM Sports (Malaysia)
+#EXTINF:-1 tvg-ID="RTS.MY" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/02/RTM_HD_Sports.png" group-title="Malaysia", RTM Sports (Malaysia)
 https://rtm2mobile.secureswiftcontent.com/Origin02/ngrp:RTM2/chunklist_b2064000.m3u8
-#EXTINF:-1 tvg-ID="Oky.MY" tvg-logo="https://okey.rtm.gov.my/img/logo/okey.png" group-title="New Horse",OKEY( Malaysia)
+#EXTINF:-1 tvg-ID="Oky.MY" tvg-logo="https://okey.rtm.gov.my/img/logo/okey.png" group-title="Malaysia",OKEY( Malaysia)
 https://rtmokeymobile.secureswiftcontent.com/Origin02/ngrp:RTM2/chunklist_b2064000.m3u8
 #EXTINF:-1 tvg-ID="TV3.MY" tvg-logo="https://www.xtra.com.my/wp-content/themes/xtra_revamp/assets/img/tv3.png" group-title = "New Malaysia", TV3 (Malaysia)
 https://fvtv.mywire.org/playlist/c6pxxm7rgq-maywremf1e.m3u8|Referer=https://www.dailymotion.com
